@@ -1,2 +1,3 @@
-# SWE-B6
-Git repository für die beste der Gruppen
+# SWE-BeSicks
+Git repository für die beste Gruppe
+
