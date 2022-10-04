@@ -2,11 +2,16 @@
 Git repository für die beste Gruppe
 
 Aufteilung:
-Vertriebsmanager:
+ <br>
+<b>Vertriebsmanager: </b>
 Tom und Amina
-Porjektmanager:
+ <br>
+<b>Porjektmanager:</b>
 Dimitri und Mika
-Technologiemanager:
+ <br>
+<b>Technologiemanager: </b>
 Gani und Ruben
-Qualitaetsmanager:
+ <br>
+<b>Qualitaetsmanager:<b/>
 Tobias und Lukas
+ <br>
